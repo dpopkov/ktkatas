@@ -9,8 +9,11 @@ repositories {
     mavenCentral()
 }
 
+val jUnitJupiterVersion: String by project
+
 dependencies {
     testImplementation(kotlin("test"))
+    testImplementation("org.junit.jupiter:junit-jupiter-params:$jUnitJupiterVersion")
 }
 
 tasks.test {
