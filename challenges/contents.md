@@ -11,3 +11,8 @@
 * 2.1.3 Short Introduction to Prime Numbers
   * [IPrimeChecker](src/main/kotlin/c02math/p0201intro/IPrimeChecker.kt)
   * [IPrimeFinder](src/main/kotlin/c02math/p0201intro/IPrimeFinder.kt)
+
+### 2.2 Exercises
+
+* 2.2.1 Basic Arithmetic
+  * [IEx1bStatistics](src/main/kotlin/c02math/p0202exercises/IEx1bStatistics.kt)
