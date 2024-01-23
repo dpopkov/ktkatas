@@ -16,3 +16,5 @@
 
 * 2.2.1 Basic Arithmetic
   * [IEx1bStatistics](src/main/kotlin/c02math/p0202exercises/IEx1bStatistics.kt)
+* 2.2.2 Number as Text
+  * [IEx2NumberAsText](src/main/kotlin/c02math/p0202exercises/IEx2NumberAsText.kt)
