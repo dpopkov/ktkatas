@@ -1,3 +1,3 @@
 # challenges
 
-Solutions and todo exercises for coding challenges.
+Solutions and todo [exercises](contents.md) for coding challenges.

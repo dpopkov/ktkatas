@@ -18,3 +18,4 @@
   * [IEx1bStatistics](src/main/kotlin/c02math/p0202exercises/IEx1bStatistics.kt)
 * 2.2.2 Number as Text
   * [IEx2NumberAsText](src/main/kotlin/c02math/p0202exercises/IEx2NumberAsText.kt)
+* 2.2.3 [Perfect Numbers](src/main/kotlin/c02math/p0202exercises/IEx3PerfectNumbers.kt)
