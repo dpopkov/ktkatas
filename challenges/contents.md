@@ -19,3 +19,4 @@
 * 2.2.2 Number as Text
   * [IEx2NumberAsText](src/main/kotlin/c02math/p0202exercises/IEx2NumberAsText.kt)
 * 2.2.3 [Perfect Numbers](src/main/kotlin/c02math/p0202exercises/IEx3PerfectNumbers.kt)
+* 2.2.4 [Prime Numbers](src/main/kotlin/c02math/p0202exercises/IEx4PrimeNumbers.kt)
